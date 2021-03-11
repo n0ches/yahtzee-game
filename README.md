@@ -7,6 +7,14 @@ The game consists of 15 turns. In each turn, a player throws three dices. The nu
  
     Yahtzee -> You must have at least 4 of the same number.         Score: 20
     Large straight -> You must have at least 6 consecutive numbers  Score: 10 
+    
+If a combination occurs, the player gets the related point and these numbers must be deleted from the queue.  
+
+In one turn, a player can get points for multiple combinations.
+
+The program displays all steps until the game is over. 
+
+At the end of the game, the winner is displayed, if exists.
 
 
 
